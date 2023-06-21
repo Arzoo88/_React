@@ -5,7 +5,7 @@ export default function Navbar() {
   return (
       <nav className="navbar navbar-expand-lg">
           <div className="container">
-            <a className="navbar-brand" href="/">Mayush Kumar Raaz</a>
+            <a className="navbar-brand" href="/">Arzoo Rai</a>
             <button className="navbar-toggler text-success" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
               <i class="fa fa-ellipsis-v" aria-hidden="true"></i>
             </button>
